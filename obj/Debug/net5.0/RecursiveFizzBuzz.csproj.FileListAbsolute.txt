@@ -1,0 +1,15 @@
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/bin/Debug/net5.0/RecursiveFizzBuzz.deps.json
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/bin/Debug/net5.0/RecursiveFizzBuzz.runtimeconfig.json
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/bin/Debug/net5.0/RecursiveFizzBuzz.runtimeconfig.dev.json
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/bin/Debug/net5.0/RecursiveFizzBuzz.dll
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/bin/Debug/net5.0/ref/RecursiveFizzBuzz.dll
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/bin/Debug/net5.0/RecursiveFizzBuzz.pdb
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/RecursiveFizzBuzz.csprojAssemblyReference.cache
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/RecursiveFizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/RecursiveFizzBuzz.AssemblyInfoInputs.cache
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/RecursiveFizzBuzz.AssemblyInfo.cs
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/RecursiveFizzBuzz.csproj.CoreCompileInputs.cache
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/RecursiveFizzBuzz.dll
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/ref/RecursiveFizzBuzz.dll
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/RecursiveFizzBuzz.pdb
+/Users/aaron/learn-csharp/RecursiveFizzBuzz/obj/Debug/net5.0/RecursiveFizzBuzz.genruntimeconfig.cache
